@@ -1,0 +1,32 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Manish Kharbade",
+      "email": "manish@gmail.com",
+      "phone": "9359183257",
+      "password": "Manish@#09"
+    },
+    {
+      "id": 2,
+      "name": "Ayush Nagarare",
+      "email": "ayushn@gmail.com",
+      "phone": "8976543212",
+      "password": "Ayush@#1234"
+    },
+    {
+      "id": 3,
+      "name": "Ashlesh Chichkhede",
+      "email": "ashleshc@gmail.com",
+      "phone": "8976543210",
+      "password": "Ashlesh@#123"
+    },
+    {
+      "id": 5,
+      "name": "Naresh",
+      "email": "naresh@gmail.com",
+      "phone": "9876543201",
+      "password": "Naresh@123"
+    }
+  ]
+}
